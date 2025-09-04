@@ -4,6 +4,8 @@ This agent uses OpenAI's `codex` to perform reverse engineering and cracking tas
 
 It runs inside a Docker container based on Ubuntu with root privileges, allowing installation of tools via `apt` and the use of `qemu` for working with binaries from different architectures.
 
+![Screenshot](example/example.png)
+
 ## Disclaimer
 
 Since this is a "vibe style" agent, you should obviously use it with extreme caution - unless you enjoy living dangerously and explaining things to your boss.
