@@ -94,7 +94,7 @@ Cracked:
 Report:
 ![Crackme Example Screenshot - Report](example/4.png)
 
-## Limitazioni osservate
+## Observed Limitations
 
 It performs very well in static analysis. However, when dynamic analysis and runtime debugging are required, it struggles to interact interactively with tools - for example, sending commands to `gdb`. While it can still accomplish these tasks, it does so with some difficulty.
 
