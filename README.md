@@ -1,6 +1,6 @@
 # Vibe Reverser - A reverse engineer AI agent
 
-This agent uses OpenAI's `codex` to perform reverse engineering and cracking tasks.
+This agent uses OpenAI's [Codex CLI](https://developers.openai.com/codex/cli/) to perform reverse engineering and cracking tasks.
 
 It runs inside a Docker container based on Ubuntu with root privileges, allowing installation of tools via `apt` and the use of `qemu` for working with binaries from different architectures.
 
