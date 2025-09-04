@@ -1,0 +1,6 @@
+agent-re/output/**
+agent-re/helper/**
+agent-re/target/**
+!agent-re/output/.gitkeep
+!agent-re/helper/.gitkeep
+!agent-re/target/.gitkeep
