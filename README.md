@@ -67,7 +67,7 @@ This configuration grants the agent broad access to the filesystem and disables 
 > If the Docker daemon is running with elevated privileges (e.g., as root), the agent - by virtue of its access to the Docker socket - could potentially perform container escape techniques and gain root access on the host system.  
 > Always ensure you understand the security implications.
 
-[The agent may pown you!](https://gist.github.com/siddolo/827e1cb66fdf1e1e94195a354e48f986)
+[The agent may pwn you!](https://gist.github.com/siddolo/827e1cb66fdf1e1e94195a354e48f986)
 
 ## Crackme Example
 
